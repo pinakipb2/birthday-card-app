@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday Greet</string>
+    <string name="enter_name_to_greet">Enter Name to Greet</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="input_hint_name">Pinaki</string>
+    <string name="credits">Made By Pinaki Bhattacharjee</string>
+</resources>
